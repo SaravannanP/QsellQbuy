@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "QsellQbuy",
+    "slug": "QsellQbuy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/250x220.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0d56d9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.saravannanp94.QsellQbuy"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0d56d9"
+      },
+      "package": "com.saravannanp94.QsellQbuy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
